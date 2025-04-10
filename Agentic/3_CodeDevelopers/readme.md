@@ -1,6 +1,6 @@
-# Agentic AI Team of Developers Application
+# Agentic AI Team of Code Developers Application
 
-![Video Thumbnail](stuff/image.png)
+![Video Thumbnail](stuff/image.jpg)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8INMwnI7pJg&list=PLEe-UC96P-yaND7e6NsapElGTKfXq_cew&index=5)
 
