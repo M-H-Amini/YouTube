@@ -2,7 +2,7 @@
 
 ![Video Thumbnail](stuff/image.jpg)
 
-[Watch on YouTube](https://youtu.be/ozd85AtvgiQ)
+[Watch on YouTube](https://www.youtube.com/watch?v=tMVBDP_ImEA)
 
 ##  By: Mohammad Hossein Amini
 
