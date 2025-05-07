@@ -15,20 +15,32 @@ Unlock the power of Agentic AI to interact with your data like never before. In 
 🎯 What You’ll Learn
 
 ✅  Defining the Code Developer agent (AssistantAgent) and OpenAI o3-mini LLM in Autogen 0.5
+
 ✅  Defining the Code Executor agent and docker container in Autogen 0.5
+
 ✅  Defining a team (RoundRobinGroupChat) of agents in Autogen 0.5
+
 ✅  Orchestrating the team of agents in async mode in Autogen 0.5
+
 ✅  Defining title, file upload and chat input elements in Streamlit
+
 ✅  Connecting the backend (Autogen) to the frontend (Streamlit)
+
 ✅  Setting docker image for the code executor agent in Autogen 0.5
+
 ✅  Passing memory (context) to the team of agents in Autogen 0.5
+
 ✅  Visualizing images and plots in chats in Streamlit
+
 
 👥 Who Should Watch?
 
 -  Python developers eager to level up data apps
+
 -  Data analysts seeking faster exploratory workflows
+
 -  AI enthusiasts curious about multi‑agent systems
+
 -  Anyone who wants to talk to their data, not just code it!
 
 ##  Getting Started
