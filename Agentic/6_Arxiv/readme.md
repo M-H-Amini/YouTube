@@ -22,19 +22,29 @@ All in Python, using AutoGen 0.5, OpenAI o4-mini, and Streamlit.
 🎯 **What You’ll Learn**
 
 ✅  Defining the Arxiv Search AI Agent (`AssistantAgent`) and OpenAI o3-mini LLM in Autogen 0.5 
+
 ✅  Using Arxiv API in Python to search for papers in Arxiv
+
 ✅  Defining the Researcher AI Agent (`AssistantAgent`) to generate a research report
+
 ✅  Testing the AI agents with several querries
+
 ✅  Defining title, text input and chat input elements in Streamlit
+
 ✅  Connecting the AI agent to the UI (Streamlit app)
+
 ✅  Final words (DO IT YOURSELF!!!)
 
 👥 **Who’s This For?**
 
 -  Python developers who love step-by-step builds
+
 -  Python developers automating research workflows
+
 -  Grad students streamlining literature reviews
+
 -  AI enthusiasts exploring multi-agent agentic AI
+
 
 📺 **More Projects Like This:**
 

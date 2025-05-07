@@ -20,20 +20,33 @@ All in Python, using AutoGen 0.5, OpenAI o3-mini, and Streamlit.
 🎯 **What You’ll Learn**
 
 ✅  What you will see in the end with examples
+
 ✅  Using YouTube modules in Python (PyTube and YouTubeTranscriptApi) to extract video metadata
+
 ✅  Defining the YouTube AI agent (`AssistantAgent`) and OpenAI o3-mini LLM in Autogen 0.5 
+
 ✅  Communicating with the AI agent (on_messages_stream method)
+
 ✅  Testing the AI agent with several querries
+
+
 ✅  Defining title, text input and chat input elements in Streamlit
+
 ✅  Connecting the AI agent to the UI (Streamlit app)
+
 ✅  Two problems! (history and memory)
+
 ✅  Final words (DO IT YOURSELF!!!)
+
 
 👥 **Who’s This For?**
 
 -  Python developers who love step-by-step builds
+
 -  AI tinkerers exploring multi-agent, agentic AI workflows
+
 -  Anyone who’d rather chat with a video than watch the whole thing
+
 
 📺 **More Projects Like This:**
 

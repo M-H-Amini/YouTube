@@ -15,11 +15,17 @@ Unlock the power of Agentic AI and learn how to create collaborating AI agents t
 ## What you'll learn:
 
 ✅ Understand the fundamentals of agentic AI and multi-agent collaboration in Autogen 0.5
+
 ✅ Build a smart Code Developer Agent to write Python and Shell script code
+
 ✅ Create a reliable Code Executor Agent to run and evaluate results
+
 ✅ Implement exciting projects like:
+
  - 🧩 Random Maze Generation & Solving
+
  - 🪙 1,000 Coin Toss Simulation with Visuals
+
 ✅ Build an interactive, user-friendly Streamlit UI (web application) for real-time outputs
 
 ## Resources
