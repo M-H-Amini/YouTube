@@ -22,15 +22,25 @@ All powered by Python, AutoGen 0.5, OpenAI o3-mini, and Streamlit!
 
 🎯 What You’ll Learn
 ✅ Defining the writer agent (`AssistantAgent` in AutoGen) 
+
 ✅ How does Selector Group Chat work in AutoGen
-✅ Defining the content-critic agent and SEO-critic agent (`AssistantAgent` in AutoGen) 
+
+✅ Defining the content-critic agent and SEO-critic agent (`AssistantAgent` in AutoGen)
+
 ✅ Defining the team of agents (`SelectorGroupChat`) in AutoGen
+
 ✅ Make the agent generate **structured output**
+
 ✅ How to define custom termination condition in AutoGen
+
 ✅ Defining title and chat input in Streamlit
+
 ✅ Connecting the AI agents to the UI (Streamlit web app)
+
 ✅ How to display previous chats in the web application
+
 ✅ How to provide access to the previous chats for the team of agents
+
 ✅ Choosing avatars for the agents
 
 👥 Who Should Watch This Tutorial?
