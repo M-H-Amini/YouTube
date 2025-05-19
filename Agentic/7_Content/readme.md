@@ -2,7 +2,7 @@
 
 ![Video Thumbnail](images/image.jpg)
 
-[Watch on YouTube](https://youtu.be/rd1NFIgr9M0)
+[Watch on YouTube](https://youtu.be/Cvrf9MGAAP4)
 
 ##  By: Mohammad Hossein Amini
 
@@ -21,6 +21,7 @@ Ready to create a powerful Agentic AI chatbot web app that produces high-quality
 All powered by Python, AutoGen 0.5, OpenAI o3-mini, and Streamlit!
 
 🎯 What You’ll Learn
+
 ✅ Defining the writer agent (`AssistantAgent` in AutoGen) 
 
 ✅ How does Selector Group Chat work in AutoGen
