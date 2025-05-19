@@ -59,7 +59,6 @@ https://www.youtube.com/watch?v=c-WAkBEla48&list=PLEe-UC96P-yaND7e6NsapElGTKfXq_
 ##  Getting Started
 1. Install the required packages:
    ```bash
-   pip install arxiv
    pip install -U "autogen-agentchat"
    pip install "autogen-ext[openai]"
    ```
