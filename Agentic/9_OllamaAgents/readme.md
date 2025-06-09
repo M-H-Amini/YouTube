@@ -2,7 +2,7 @@
 
 ![Video Thumbnail](images/thumbnail.jpg)
 
-[Watch on YouTube](https://youtu.be/YourVideoLinkHere)
+[Watch on YouTube](https://youtu.be/WdBXgYsEXcE)
 
 ## By: Mohammad Hossein Amini
 
@@ -44,7 +44,7 @@
 
 Level up with more tutorials from the **Agentic AI Tutorials** playlist, featuring advanced agent orchestration, Streamlit applications, and innovative AI techniques.
 
-👉 [Watch the Playlist](https://www.youtube.com/yourplaylistlink)
+👉 [Watch the Playlist](https://www.youtube.com/watch?v=c-WAkBEla48&list=PLEe-UC96P-yaND7e6NsapElGTKfXq_cew&index=3&pp=0gcJCR0AztywvtLA)
 
 ## 📂 Getting Started
 
