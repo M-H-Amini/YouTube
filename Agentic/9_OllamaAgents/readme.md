@@ -1,4 +1,4 @@
-# 🚀 \[AutoGen + Python] Build Local Private AI Agents & Solve Common Challenges
+# 🚀 The Dark Side of Local AI Agents: How to Fix Them (AutoGen + Ollama + Python)
 
 ![Video Thumbnail](images/thumbnail.jpg)
 
