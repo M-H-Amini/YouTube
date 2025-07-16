@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=YeJG_H-sw84&list=PLEe-UC96P-yaP7-jz3HLrieQdNNFuy
    ```bash
    pip install -U "autogen-agentchat"
    pip install "autogen-ext[openai]"
+   pip install "autogen-ext[mcp]"
    ```
 
 2. Insert your OpenAI API key as `api_openai.txt` file and your Google Maps API key as `api_maps.txt` in the same directory as the script. The file should contain only the API key, without any additional text or formatting.
